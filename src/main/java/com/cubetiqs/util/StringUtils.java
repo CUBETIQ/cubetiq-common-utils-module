@@ -1,7 +1,6 @@
 package com.cubetiqs.util;
 
 import com.cubetiqs.logging.Log;
-import org.apache.commons.text.StringEscapeUtils;
 import org.apache.logging.log4j.Logger;
 import org.jetbrains.annotations.NotNull;
 
